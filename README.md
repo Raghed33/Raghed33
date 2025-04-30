@@ -20,10 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/Verilog_logo.svg]" alt="Verilog" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/urish/assembly-logo/master/assembly.png" alt="Assembly" width="40" height="40"/>
-
 </p>
+![Verilog](https://img.shields.io/badge/Verilog-881391?style=flat&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 
 **Tools & Platforms:**
 
