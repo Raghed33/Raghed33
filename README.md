@@ -27,6 +27,44 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
+## 💼 Projects
+
+### 🧪 Medical Test Management System
+A command-line system for managing medical test records using Linux Shell Scripting and Python.
+
+- Features include adding, updating, searching, and exporting records.
+- Includes a data validation system to detect abnormal test results.
+- Supports CSV import/export for seamless data handling.
+
+**GitHub Repositories:**
+- Shell Script Implementation: [GitHub Link]
+- Python Implementation: [GitHub Link]
+
+---
+
+### 🌐 Network Programming Project
+Built a multi-threaded web server and a real-time multiplayer trivia game using socket programming in Python.
+
+- Developed a TCP web server to serve multilingual content.
+- Created a UDP-based trivia game with live scoring and leaderboard.
+- Utilized socket programming for concurrent client-server communication.
+
+**GitHub Repository:**
+- Socket Programming Implementation: [GitHub Link]
+
+---
+
+### 🧬 Predictive Medical Diagnosis of Diabetes
+A machine learning-based system to classify and predict diabetes using Python and Weka.
+
+- Implemented Decision Trees, Random Forest, Naïve Bayes, and Neural Networks.
+- Built a simple web interface for real-time prediction.
+- Focused on high accuracy and model interpretability.
+
+**GitHub Repository:**
+- Predictive Medical Diagnosis Implementation: [GitHub Link]
+
+
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([Your_LinkedIn_Link](https://www.linkedin.com/in/raghed-dawood-848608358/))
