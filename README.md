@@ -21,5 +21,5 @@
 
 
 📫 **How to reach me:**  
-[![LinkedIn](https://www.linkedin.com/in/raghed-dawood-848608358/)](Your_LinkedIn_Link)
+[![LinkedIn](https://www.linkedin.com/in/raghed-dawood-848608358/)](‏Raghed_Dawood‏)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:1211326@student.birzeit.edu)
