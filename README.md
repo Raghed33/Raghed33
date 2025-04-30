@@ -10,6 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="visitor-counter"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtY2R5dWJxYjZqY3F6Y2V6ZzB6dWZ1bmR1aGJ6eHZtN2N1eWZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+  <h1>👋 Hi, I'm Raghed Isleem </h1>
+  <h3>Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions  
+</h3>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="visitor-counter"/>
+</div>
+
 
 ### 🛠️ **Technical Skills**  
 **Programming Languages:**  
