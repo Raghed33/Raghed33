@@ -1,11 +1,13 @@
-<div align="center">
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Assets/GIFs/Developer.gif" width="300" />
-  <h1>👋 Hi, I'm Raghed Isleem </h1>
-  <h3>Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions</h3>
-  <img src="https://komarev.com/ghpvc/?username=RaghedIsleem&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
-</div>
+</p>
 
- 
+<h1 align="center">👋 Hi, I'm Raghed Isleem</h1>
+<h3 align="center">Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghed33&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
 
 
 
