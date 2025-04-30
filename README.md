@@ -4,6 +4,7 @@
   <h3>Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions</h3>
 </div>
 
+  <img src="https://komarev.com/ghpvc/?username=RaghedIsleem&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
 
 
 
