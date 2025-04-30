@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtY2R5dWJxYjZqY3F6Y2V6ZzB6dWZ1bmR1aGJ6eHZtN2N1eWZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="200"/>
+</div>
+
 # 👋 Hi, I'm Raghed Isleem
 
 
