@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtY2R5dWJxYjZqY3F6Y2V6ZzB6dWZ1bmR1aGJ6eHZtN2N1eWZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)" width="200"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Assets/GIFs/Developer.gif" width="300" />
   <h1>👋 Hi, I'm Raghed Isleem </h1>
   <h3>Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions</h3>
   <img src="https://komarev.com/ghpvc/?username=RaghedIsleem&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
@@ -68,6 +68,12 @@ A machine learning-based system to classify and predict diabetes using Python an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raghed33&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghed33&theme=radical" />
+</p>
+
+## 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghed33&layout=compact&theme=radical" />
 </p>
 
 
