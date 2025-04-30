@@ -66,8 +66,8 @@ A machine learning-based system to classify and predict diabetes using Python an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaghedIsleem&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghedIsleem&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghed33&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghed33&theme=radical" />
 </p>
 
 
