@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Assets/GIFs/Developer.gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Raghed Isleem</h1>
