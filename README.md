@@ -38,11 +38,6 @@
 
 ### 🧪 Medical Test Management System
 A command-line system for managing medical test records using Linux Shell Scripting and Python.
-
-- Features include adding, updating, searching, and exporting records.
-- Includes a data validation system to detect abnormal test results.
-- Supports CSV import/export for seamless data handling.
-
 **GitHub Repositories:**
 - Shell Script Implementation: [GitHub Link]
 - Python Implementation: [GitHub Link]
@@ -52,10 +47,6 @@ A command-line system for managing medical test records using Linux Shell Script
 ### 🌐 Network Programming Project
 Built a multi-threaded web server and a real-time multiplayer trivia game using socket programming in Python.
 
-- Developed a TCP web server to serve multilingual content.
-- Created a UDP-based trivia game with live scoring and leaderboard.
-- Utilized socket programming for concurrent client-server communication.
-
 **GitHub Repository:**
 - Socket Programming Implementation: [GitHub Link]
 
@@ -63,10 +54,6 @@ Built a multi-threaded web server and a real-time multiplayer trivia game using 
 
 ### 🧬 Predictive Medical Diagnosis of Diabetes
 A machine learning-based system to classify and predict diabetes using Python and Weka.
-
-- Implemented Decision Trees, Random Forest, Naïve Bayes, and Neural Networks.
-- Built a simple web interface for real-time prediction.
-- Focused on high accuracy and model interpretability.
 
 **GitHub Repository:**
 - Predictive Medical Diagnosis Implementation: [GitHub Link]
