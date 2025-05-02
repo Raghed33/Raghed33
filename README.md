@@ -36,6 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconic_image_of_electronic_circuit_simulator.png" alt="PSpice" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Cisco_packet_tracer_icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
