@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Raghed Isleem</h1>
-<h3 align="center">Computer Engineering Student at Birzeit University | Passionate about Software Development & AI Solutions</h3>
+<h3 align="center">Computer Engineering Student at Birzeit University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raghed33&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
@@ -32,32 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
-
-## 💼 Projects
-
-### 🧪 Medical Test Management System
-A command-line system for managing medical test records using Linux Shell Scripting and Python.
-**GitHub Repositories:**
-- Shell Script Implementation: [GitHub Link]
-- Python Implementation: [GitHub Link]
-
----
-
-### 🌐 Network Programming Project
-Built a multi-threaded web server and a real-time multiplayer trivia game using socket programming in Python.
-
-**GitHub Repository:**
-- Socket Programming Implementation: [GitHub Link]
-
----
-
-### 🧬 Predictive Medical Diagnosis of Diabetes
-A machine learning-based system to classify and predict diabetes using Python and Weka.
-
-**GitHub Repository:**
-- Predictive Medical Diagnosis Implementation: [GitHub Link]
-
 
 ## 📊 GitHub Stats
 
